@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "dotnet_gh_actions/1.0.0": {
+        "runtime": {
+          "dotnet_gh_actions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dotnet_gh_actions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
