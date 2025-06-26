@@ -1,4 +1,4 @@
-name: Build code and call reusable deploy workflow template
+name: Build code and call reusable deploy from workflow template
 
 on:
   push:
